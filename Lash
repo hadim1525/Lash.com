@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+	<title>Document</title>
+</head>
+<body background="https://cdn.create.vista.com/api/media/medium/197176922/stock-photo-elevated-view-tools-permanent-makeup-isolated-black?token=">
+<table border="0" width="100%"height="700px">
+<!----Row1---->
+<tr>
+<th> <font face="Monoton">  </font></th>
+<th></th>
+<th></th>
+<th><a href="#"> Home </a></th>
+<th><a href="#"> About Us</th>
+<th><a href="#"> Contact Us</th>	
+</tr>
+<!----Row2---->
+<tr>
+<th colspan="6">
+<font color="white" face="Helvetica" size="5">	
+<h1> Welcome to our website </h1> <br>	
+<h2> Lash Beauty Zone </h2> 	
+</tr>
+<!----Row3---->
+<tr>
+<th colspan="6"></th>
+<font size="6" color="black" face="Aquire">  </font>
+
+</th>
+</tr>
+<!----Row4---->
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>	
+</tr>
+<!----Row5---->
+<tr>
+<th clospan="6">
+<font color="white" >Thanks for visiting </font>	
+</th>
+</tr>
+
+<!----Row6---->
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>	
+</tr>
+
+	
+</body>
+</html>	
